@@ -1,9 +1,10 @@
 body {
   padding: 5%;
+  text-align: center;
+  background-color: #EFD4D0;
 }
 
 h1 {
-  text-align: center;
   padding: 50px;
   font-size: 45px;
   font-family: fantasy;
