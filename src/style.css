@@ -19,6 +19,7 @@ footer {
   text-align: center;
 }
 
-a {
+footer a {
     margin: 10px;
+    color: #cb9126;
 }
